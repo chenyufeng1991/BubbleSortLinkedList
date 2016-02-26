@@ -113,7 +113,7 @@ elemType sizeList(Node *pNode){
     }
 }
 
-//冒泡排序
+//链表实现冒泡排序
 Node *BubbleSortLinkedList(Node *pNode){
     if (pNode == NULL) {
         printf("%s函数执行，链表为空，冒泡排序失败\n",__FUNCTION__);
