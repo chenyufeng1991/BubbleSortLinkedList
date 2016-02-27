@@ -1,2 +1,2 @@
 # BubbleSortLinkedList
-使用链表实现冒泡排序
+使用单链表实现冒泡排序
